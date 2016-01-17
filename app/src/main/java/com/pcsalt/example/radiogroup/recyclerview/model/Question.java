@@ -1,4 +1,4 @@
-package com.pcsalt.example.listviewcheckbox.model;
+package com.pcsalt.example.radiogroup.recyclerview.model;
 
 /**
  * Created by krishna on 9/1/16.

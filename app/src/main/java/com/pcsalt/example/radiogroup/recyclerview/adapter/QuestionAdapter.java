@@ -1,4 +1,4 @@
-package com.pcsalt.example.listviewcheckbox.adapter;
+package com.pcsalt.example.radiogroup.recyclerview.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -11,8 +11,8 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-import com.pcsalt.example.listviewcheckbox.R;
-import com.pcsalt.example.listviewcheckbox.model.Question;
+import com.pcsalt.example.radiogroup.recyclerview.R;
+import com.pcsalt.example.radiogroup.recyclerview.model.Question;
 
 import java.util.List;
 
